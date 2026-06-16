@@ -1,6 +1,6 @@
 # Metode-Numerik-A_Nur-Aisyah_F55123042
 
-# UAS Metode Numerik — Bab 11: Sistem Persamaan Linear & Nonlinear
+# UAS Metode Numerik 
 
 Repositori ini berisi implementasi Python dari soal-soal UAS Metode Numerik, mencakup berbagai metode penyelesaian sistem persamaan linear dan nonlinear. Semua kode ditulis dari awal mengikuti alur algoritma yang diajarkan, disertai output detail dan visualisasi.
 
