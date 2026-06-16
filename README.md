@@ -2,7 +2,7 @@
 
 # UAS Metode Numerik 
 
-Repositori ini berisi implementasi Python dari soal-soal UAS Metode Numerik, mencakup berbagai metode penyelesaian sistem persamaan linear dan nonlinear. Semua kode ditulis dari awal mengikuti  disertai output detail dan visualisasi.
+Repositori ini berisi implementasi Python dari soal-soal UAS Metode Numerik, mencakup berbagai metode penyelesaian sistem persamaan linear dan nonlinear. Semua kode ditulis dari awal dan disertai output detail dan visualisasi.
 
 ---
 
