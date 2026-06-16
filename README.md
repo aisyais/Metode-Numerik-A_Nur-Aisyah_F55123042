@@ -1,0 +1,1 @@
+# Metode-Numerik-A_Nur-Aisyah_F55123042
